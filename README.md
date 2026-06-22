@@ -1,5 +1,6 @@
 # Comet-Lake-Opencore-EFI
 Opencore EFI folder for macOS Big Sur on comet lake devices.
+
 ![Example Screenshot](Screenshots/Screenshot%202026-06-22%20at%2008.59.07.png)
 
 ## Specs of machine tested on:
